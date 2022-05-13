@@ -1,0 +1,8 @@
+1. Use Scanner to allow user to input data
+
+int wage;
+Scanner scnr = new Scanner(System.in);
+wage = scnr.nextInt();
+
+2. Println() - print to new line
+3. Print() - to print 
