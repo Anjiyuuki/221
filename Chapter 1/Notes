@@ -1,8 +1,17 @@
 1. Use Scanner to allow user to input data
+import java.util.Scanner;
 
-int wage;
-Scanner scnr = new Scanner(System.in);
-wage = scnr.nextInt();
+public class Salary {
+   public static void main(String [] args) {
+      int wage;
+
+      Scanner scnr = new Scanner(System.in);
+      wage = scnr.nextInt();
+
+      System.out.print("Salary is ");
+      System.out.println(wage * 40 * 52);
+   }
+}
 
 2. Println() - print to new line
 3. Print() - to print 
