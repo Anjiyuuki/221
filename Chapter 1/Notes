@@ -1,4 +1,5 @@
 1. Use Scanner to allow user to input data
+
 import java.util.Scanner;
 
 public class Salary {
