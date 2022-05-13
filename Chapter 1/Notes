@@ -1,5 +1,5 @@
 1. Use Scanner to allow user to input data
-
+--------------------------------------------------
 import java.util.Scanner;
 
 public class Salary {
@@ -13,6 +13,6 @@ public class Salary {
       System.out.println(wage * 40 * 52);
    }
 }
-
+--------------------------------------------------
 2. Println() - print to new line
 3. Print() - to print 
