@@ -1,1 +1,3 @@
-
+dividing a positive float by 0.0 will result in positive infinity
+dividing a negative float by 0.0 result in neg infinity
+0.0 / something = 0.0
