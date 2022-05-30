@@ -1,9 +1,0 @@
-#BlueJ class context
-comment0.target=Die
-comment1.params=
-comment1.target=Die()
-comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Die\ \n
-comment2.params=
-comment2.target=int\ roll()
-comment2.text=\n\ method\ roll\ -\ simulates\ a\ roll\ of\ the\ die\n\ return\ an\ int\ in\ the\ range\ 1-6,\ inclusive\n
-numComments=3
