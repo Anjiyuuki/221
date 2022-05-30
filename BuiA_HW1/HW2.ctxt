@@ -1,7 +1,0 @@
-#BlueJ class context
-comment0.target=HW2
-comment0.text=\n\ Name\:\ Angie\ Bui\ \n\ HW2.java\n\ Summer\ 2022\n\ \n\ Problem\:\ This\ calls\ the\ Crap\ game\ 10,000\ times,\ includes\ a\ counter\n\ for\ win\ and\ losses.\ And\ the\ probability\ of\ winning.\ \n\ \n\ Certification\ of\ Authenticity\:\n\ I\ Certify\ that\ this\ homework\ is\ entirely\ my\ own\ work.\ \n
-comment1.params=args
-comment1.target=void\ main(java.lang.String[])
-comment1.text=\n\ main\ -\ drives\ the\ game\ of\ craps\ test\ of\ wins/losses\ in\ 10000\ games\n
-numComments=2
