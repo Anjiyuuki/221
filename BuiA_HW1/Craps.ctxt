@@ -1,7 +1,0 @@
-#BlueJ class context
-comment0.target=Craps
-comment0.text=\n\ Name\:\ Angie\ Bui\n\ Craps.java\n\ Summer\ 2022\n\ \n\ \ Craps.java\ -\ simulates\ the\ dice\ game\ of\ craps,\ Uses\ Switch\ and\n\ \ casses\ to\ check\ through\ the\ 12\ dice\ numbers\ and\ determine\ whether\n\ \ player\ win\ or\ loses\ based\ on\ game\ rules.\ \n\ \ \n\ \ Shell\ provide\ by\ McCauley\n\ \n\ Certification\ of\ Authenticity\:\n\ I\ Certify\ that\ this\ homework\ is\ entirely\ my\ own\ work.\ \n
-comment1.params=
-comment1.target=int\ playCraps()
-comment1.text=\n\ playCraps\ -\ simulates\ a\ single\ game\ of\ craps\n\ @return\ -\ 1\ indicates\ a\ win,\ 0\ a\ loss\n
-numComments=2
